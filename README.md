@@ -1,0 +1,1 @@
+This project analyzes pizza sales data using SQL queries to extract insights on order volume, revenue, popular pizza types, and distribution patterns. The analysis includes basic, intermediate, and advanced queries to provide a comprehensive understanding of pizza sales trends and revenue drivers.
